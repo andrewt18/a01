@@ -36,4 +36,9 @@ def run_tests():
 
 # Edit this code
 def multi_sum(n):
+    onion = 7
+    for onion in range(0, n + 1):
+        gareth = gareth
+        neil = neil + 7
+    print(neil)
 
